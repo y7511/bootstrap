@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 252, 252);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+nav {
+    background-color: rgb(223, 165, 165);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+button {
+    background-color: rgb(186, 147, 147);
+    width: 100px;
+    border-radius: 50px;
+    
+}
